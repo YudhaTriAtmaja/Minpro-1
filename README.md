@@ -1,2 +1,2 @@
 # Praktikum Daspro
-Nama: Yudha Tri Atmaja NIM: 4409116095
+Nama: Yudha Tri Atmaja NIM: 2409116095
