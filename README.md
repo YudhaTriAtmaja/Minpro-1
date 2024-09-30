@@ -3,7 +3,7 @@ Nama: Yudha Tri Atmaja
 NIM: 2409116095
 Kelas: C'2024
 ![Screenshot (71)](https://github.com/user-attachments/assets/7e08cfe3-172f-4dfa-93a0-c535d31c4c32)
-![Screenshot 2024-09-30 221127](https://github.com/user-attachments/assets/b82ecbbd-f386-47d5-a558-b6186acdadbc)
+![Screenshot 2024-09-30 222823](https://github.com/user-attachments/assets/d7e73944-2631-45a4-9ac7-fc21da5771e2)
 
 Penjelasan Flowchart:
 1) Registrasi username dan buat password
